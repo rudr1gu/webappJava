@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Rodrigo Santos Silva</h2>
+<h1>Rodrigo Santos Silva</h1>
 </body>
 </html>
